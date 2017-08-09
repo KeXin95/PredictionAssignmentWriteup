@@ -1,6 +1,5 @@
 
 # Practical Machine Learning Project
-==================================================================
 coursera Peer-graded Assignment: Prediction Assignment Writeup
 
 ##Instructions
